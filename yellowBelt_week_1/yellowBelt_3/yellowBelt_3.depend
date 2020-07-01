@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576955970 source:c:\users\olegseledets\documents\c++\yellowbelt_week_1\yellowbelt_3\main.cpp
+	<iostream>
+	<cstdint>
+
